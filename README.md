@@ -1,18 +1,18 @@
 # sandeep
 <Doctype\>
-<heading>
+<h1>
 
 "programming language"
+
+</h1>
 <title>
 Sandeep buerocacy
 </title>
-<head>
-Java,javascript,python,C,C++
-</head>
+
+<p>Java,javascript,python,C,C++</p>
+
 <nav>
-font style{
-color:green,
-size:30px;
+
 }
 </nav>
 
@@ -49,5 +49,6 @@ switch(day){
 
 }
 
-console.log(text)
+console.log(text);
+
 
